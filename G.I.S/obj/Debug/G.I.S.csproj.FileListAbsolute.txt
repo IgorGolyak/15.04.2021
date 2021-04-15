@@ -1,0 +1,6 @@
+C:\Users\golya\source\repos\ISP-20\G.I.S\bin\Debug\G.I.S.exe.config
+C:\Users\golya\source\repos\ISP-20\G.I.S\bin\Debug\G.I.S.exe
+C:\Users\golya\source\repos\ISP-20\G.I.S\bin\Debug\G.I.S.pdb
+C:\Users\golya\source\repos\ISP-20\G.I.S\obj\Debug\G.I.S.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\ISP-20\G.I.S\obj\Debug\G.I.S.exe
+C:\Users\golya\source\repos\ISP-20\G.I.S\obj\Debug\G.I.S.pdb

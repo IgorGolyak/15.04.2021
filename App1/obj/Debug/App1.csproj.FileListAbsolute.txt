@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\ISP-20\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\ISP-20\App1\obj\Debug\App1.csprojAssemblyReference.cache
+C:\Users\golya\source\repos\ISP-20\App1\bin\Debug\App1.exe.config
+C:\Users\golya\source\repos\ISP-20\App1\bin\Debug\App1.exe
+C:\Users\golya\source\repos\ISP-20\App1\bin\Debug\App1.pdb
+C:\Users\golya\source\repos\ISP-20\App1\obj\Debug\App1.exe
+C:\Users\golya\source\repos\ISP-20\App1\obj\Debug\App1.pdb

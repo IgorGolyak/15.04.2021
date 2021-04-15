@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\ISP-20\ISP-20\bin\Debug\ISP-20.exe.config
+C:\Users\golya\source\repos\ISP-20\ISP-20\bin\Debug\ISP-20.exe
+C:\Users\golya\source\repos\ISP-20\ISP-20\bin\Debug\ISP-20.pdb
+C:\Users\golya\source\repos\ISP-20\ISP-20\obj\Debug\ISP-20.csprojAssemblyReference.cache
+C:\Users\golya\source\repos\ISP-20\ISP-20\obj\Debug\ISP-20.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\ISP-20\ISP-20\obj\Debug\ISP-20.exe
+C:\Users\golya\source\repos\ISP-20\ISP-20\obj\Debug\ISP-20.pdb
